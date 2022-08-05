@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AgustinValdes
-- 👀 I’m interested in the fields of electrical engineering and computer science.
-- 🌱 I’m currently learning Javascript in Google's Computer Science Summer Institute.
-- 💞️ I’m looking to collaborate on embedded systems and robotics projects.
+- 👋 Hi, my name is @AgustinValdes, a rising sophomore at MIT majoring in Electrical Engineering and Computer Science.
+- 👀 I’m particularly interested in applied robotics and quantum computing.
+- 🌱 This semester, I'm taking Circuits (6.2000), Computation Structures (6.1910), Intro. to Autonomous Machines (16.632) and Differential Equations (18.03).
+- 💞️ I’m always open to chatting about anything STEM and learning something new!
 - 📫 How to reach me ...
   Email: avaldesm@mit.edu
 
